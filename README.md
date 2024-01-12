@@ -1,4 +1,4 @@
-# An MIDI adapter for KB connector of SFG-01/05 
+# A MIDI adapter for KB connector of SFG-01/05 
 
 The adapter allows to use Auto Bass Chord function (and see a marks of pressed keys on the screen) of SFG-05 with a MIDI keyboard using KB connector. Tested with a SFG-01/05 clone by RBSC: https://github.com/RBSC/SFG_Cartridge .
 
